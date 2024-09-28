@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Elesawy</h1>
 <h3 align="center">A passionate Full stack web Developer</h3>
 
-- 🌱 Currently, I'm an ITI 9-Month Trainee at Professional Development & BI track, specializing in C# and .NET API development.. **.Net**
+- 🌱 Currently, I'm a Junior .Net Full Stack at qTech  .
 
 - 📫 How to reach me **AhmedL3swy@outlook.com**
 
@@ -33,8 +33,4 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedl3swy&show_icons=true&locale=en&layout=compact" alt="ahmedl3swy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedl3swy&show_icons=true&locale=en" alt="ahmedl3swy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedl3swy&" alt="ahmedl3swy" /></p>
