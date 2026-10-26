@@ -1,4 +1,4 @@
-<a href="https://portfolio.elesawy.website">
+<a href="https://ahmedl3swy.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
     <img alt="Ahmed Elesawy, Software Development Engineer. Full-Stack .NET and Angular, DevOps, AI." src="assets/header-light.svg" width="100%">
@@ -6,10 +6,10 @@
 </a>
 
 <p align="center">
-  <a href="https://portfolio.elesawy.website"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/AhmedL3swy"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:AhmedL3swy@outlook.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://portfolio.elesawy.website/assets/cv/Ahmed-Elesawy-CV.pdf"><b>CV</b></a>
+  <a href="https://ahmedl3swy.com"><img src="assets/buttons/portfolio.svg" alt="Portfolio" height="44"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/AhmedL3swy"><img src="assets/buttons/linkedin.svg" alt="LinkedIn" height="44"></a>&nbsp;
+  <a href="mailto:AhmedL3swy@outlook.com"><img src="assets/buttons/email.svg" alt="Email" height="44"></a>&nbsp;
+  <a href="https://ahmedl3swy.com/assets/cv/Ahmed-Elesawy-CV.pdf"><img src="assets/buttons/cv.svg" alt="Download CV" height="44"></a>
 </p>
 
 I build secure, scalable web systems with **ASP.NET Core** and **Angular**, and the **Azure DevOps** pipelines that ship them. I care about performance, security and maintainable code, and I like owning a feature from design to deployment.
@@ -24,28 +24,39 @@ I build secure, scalable web systems with **ASP.NET Core** and **Angular**, and 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Price-Pee">PriceBee</a></h3>
+      <h3><a href="https://github.com/orgs/Price-Pee/repositories">PriceBee</a></h3>
       <p>Price comparison across online stores. I built the multilingual scraping service, Hangfire background jobs, SignalR live notifications and a BotPress chatbot.</p>
       <p><sub>ASP.NET Core · Angular · SQL Server · FastAPI</sub></p>
       <p>🥈 <b>2nd place</b>, qTech Hackathon for Delta ITI graduation projects</p>
+      <p><a href="https://github.com/orgs/Price-Pee/repositories"><img src="assets/buttons/repos.svg" alt="Repositories" height="32"></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AhmedL3swy/ResWB-Dehaze">Dehazing for self-driving cars</a></h3>
       <p>A novel dehazing model that keeps vision clear in bad weather, served through a <a href="https://github.com/AhmedL3swy/dehaze">FastAPI deployment</a>.</p>
       <p><sub>PyTorch · ONNX · OpenCV · FastAPI</sub></p>
       <p>🌍 <b>12th worldwide</b> in NTIRE 2023. Featured in the <a href="https://doi.org/10.1109/CVPRW59228.2023.00180">IEEE/CVF CVPRW 2023 challenge report</a></p>
+      <p>
+        <a href="https://github.com/AhmedL3swy/ResWB-Dehaze"><img src="assets/buttons/model.svg" alt="AI model" height="32"></a>
+        <a href="https://github.com/AhmedL3swy/dehaze"><img src="assets/buttons/api.svg" alt="API" height="32"></a>
+        <a href="https://doi.org/10.1109/CVPRW59228.2023.00180"><img src="assets/buttons/paper.svg" alt="Paper" height="32"></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://ccar-f.elesawy.website/">CCAR-F Field Guide</a></h3>
       <p>A study plan for the Claude Certified Architect exam: every task statement with a plain-language summary, decisions to recall and exam traps, translated into Arabic row by row.</p>
-      <p><sub>JavaScript · Cloudflare · <a href="https://github.com/AhmedL3swy/ccar-f">source</a></sub></p>
+      <p><sub>JavaScript · Cloudflare</sub></p>
+      <p>
+        <a href="https://ccar-f.elesawy.website/"><img src="assets/buttons/live.svg" alt="Live site" height="32"></a>
+        <a href="https://github.com/AhmedL3swy/ccar-f"><img src="assets/buttons/source.svg" alt="Source" height="32"></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AhmedL3swy/Examination-System">Examination System</a></h3>
       <p>A secure desktop exam platform built database-first, with every data operation going through stored procedures for integrity and speed.</p>
       <p><sub>.NET · WinForms · SQL Server · Crystal Reports · SSRS</sub></p>
+      <p><a href="https://github.com/AhmedL3swy/Examination-System"><img src="assets/buttons/source.svg" alt="Source" height="32"></a></p>
     </td>
   </tr>
 </table>
