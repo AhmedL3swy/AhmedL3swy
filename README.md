@@ -1,36 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ahmad Elesawy</h1>
-<h3 align="center">A passionate Full stack web Developer</h3>
+<a href="https://portfolio.elesawy.website">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Ahmed Elesawy, Software Development Engineer. Full-Stack .NET and Angular, DevOps, AI." src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-- 🌱 Currently, I'm a Junior .Net Full Stack at qTech  .
-
-- 📫 How to reach me **AhmedL3swy@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/AhmedL3swy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-esam-el-bastawesy-" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfolio.elesawy.website"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/AhmedL3swy"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:AhmedL3swy@outlook.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://portfolio.elesawy.website/assets/cv/Ahmed-Elesawy-CV.pdf"><b>CV</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".Net Core" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build secure, scalable web systems with **ASP.NET Core** and **Angular**, and the **Azure DevOps** pipelines that ship them. I care about performance, security and maintainable code, and I like owning a feature from design to deployment.
 
+- **Now:** Mid-Level Full-Stack .NET Angular Developer at [Alqemam-qTech](https://www.linkedin.com/company/alqemam/). I build synchronization services and Email/SMS notification modules, and I've made our CI/CD faster.
+- **Before:** Junior at the same team, building high-security governance solutions on ASP.NET Core, Angular and Oracle. Named **High-Flyer Achiever of 2024**.
+- **Exploring:** LLM-powered systems and agents. Recently earned **Claude Certified Architect – Foundations**.
+- **Background:** B.Sc. Electronics & Communications Engineering (Excellent), Mansoura University, plus ITI's Professional Web Development & BI Diploma.
 
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Price-Pee">PriceBee</a></h3>
+      <p>Price comparison across online stores. I built the multilingual scraping service, Hangfire background jobs, SignalR live notifications and a BotPress chatbot.</p>
+      <p><sub>ASP.NET Core · Angular · SQL Server · FastAPI</sub></p>
+      <p>🥈 <b>2nd place</b>, qTech Hackathon for Delta ITI graduation projects</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AhmedL3swy/ResWB-Dehaze">Dehazing for self-driving cars</a></h3>
+      <p>A novel dehazing model that keeps vision clear in bad weather, served through a <a href="https://github.com/AhmedL3swy/dehaze">FastAPI deployment</a>.</p>
+      <p><sub>PyTorch · ONNX · OpenCV · FastAPI</sub></p>
+      <p>🌍 <b>12th worldwide</b> in NTIRE 2023. Featured in the <a href="https://doi.org/10.1109/CVPRW59228.2023.00180">IEEE/CVF CVPRW 2023 challenge report</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://ccar-f.elesawy.website/">CCAR-F Field Guide</a></h3>
+      <p>A study plan for the Claude Certified Architect exam: every task statement with a plain-language summary, decisions to recall and exam traps, translated into Arabic row by row.</p>
+      <p><sub>JavaScript · Cloudflare · <a href="https://github.com/AhmedL3swy/ccar-f">source</a></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AhmedL3swy/Examination-System">Examination System</a></h3>
+      <p>A secure desktop exam platform built database-first, with every data operation going through stored procedures for integrity and speed.</p>
+      <p><sub>.NET · WinForms · SQL Server · Crystal Reports · SSRS</sub></p>
+    </td>
+  </tr>
+</table>
+
+## Stack
+
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cs,ts,js,py,cpp,c" alt="C#, TypeScript, JavaScript, Python, C++, C" height="40"> |
+| **Back end** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,rabbitmq,redis" alt=".NET, Node.js, FastAPI, RabbitMQ, Redis" height="40"><br><sub>ASP.NET Core (Web API, MVC, Worker Services) · EF Core · Dapper · SignalR · Ocelot · Serilog</sub> |
+| **Front end** | <img src="https://skillicons.dev/icons?i=angular,reactivex,html,css,sass,bootstrap" alt="Angular, RxJS, HTML, CSS, Sass, Bootstrap" height="40"> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch" alt="PostgreSQL, MongoDB, Elasticsearch" height="40"><br><sub>SQL Server · Oracle PL/SQL · SSIS · SSAS · SSRS</sub> |
+| **DevOps & cloud** | <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git,postman" alt="Azure, AWS, Docker, GitHub Actions, Git, Postman" height="40"><br><sub>Azure DevOps Pipelines · Application Insights · ELK Stack</sub> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV, scikit-learn" height="40"><br><sub>ONNX · NumPy · Pandas · Claude</sub> |
+
+## Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/950036bc-9b50-444b-908c-5ab4f0ddc119/public_url"><img src="assets/certs/ccar-f.png" alt="Claude Certified Architect – Foundations (Anthropic)" title="Claude Certified Architect – Foundations · Anthropic" height="110"></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/d388ac23-1895-486e-8aac-eda267495ceb"><img src="assets/certs/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner · Amazon Web Services" height="110"></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/ahmedl3swy/credentials/ca5aeee721d4609c"><img src="assets/certs/github-foundations.svg" alt="GitHub Foundations" title="GitHub Foundations · GitHub" height="110"></a>
+</p>
+
+---
+
+<p align="center"><sub>Happy to talk .NET, Angular, DevOps or building with AI. <a href="mailto:AhmedL3swy@outlook.com">Say hello</a>.</sub></p>
